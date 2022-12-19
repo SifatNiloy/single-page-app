@@ -1,0 +1,11 @@
+.footer-section{
+    padding: 30px 50px;
+    background-color: rgb(105, 144, 236);
+
+}
+
+.footer{
+   
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
